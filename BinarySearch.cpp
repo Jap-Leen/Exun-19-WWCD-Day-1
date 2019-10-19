@@ -1,4 +1,5 @@
 // Given n numbers and a number k, write a program to search the number. k in the list using Binary Search algorithm.
+
 #include<iostream.h>
 void main()
 {
@@ -26,4 +27,4 @@ void main()
   else
     cout<<"found";
 }
-   
+
