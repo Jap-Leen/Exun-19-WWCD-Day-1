@@ -7,3 +7,4 @@ Add your name and school name in the following list
 6. Shinjini Harisukh-DPS RK Puram
 7. Ridhi - BBPSPP
 8. Aastha Gupta- DPSF
+9. Shruti-DPSMK
