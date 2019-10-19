@@ -1,15 +1,22 @@
 Write a class implementing destructor function.
-  #include<iostream>
+#include<iostream>
 #include<fstream>
 using namespace std;
 class A{
-        int x;
+        int x,y;
         public:
         A() //constructor
         {
-            cout<<"constructor invoked.";
+            cout<<"constructor invoked."<<endl;
+            x=5;
+            y=6;
         }
-        ~A()
+        void sum()
+        { 
+         int sum=x+y;
+         cout<<"sum is "<<sum<<endl;
+        }  
+        ~A() //destructor
         {
             cout<<"destructor invoked.";
         }
@@ -17,4 +24,5 @@ class A{
 int main()
 {
     A a;
+    a.sum();
 }    
