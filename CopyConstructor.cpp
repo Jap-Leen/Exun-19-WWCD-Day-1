@@ -1,4 +1,4 @@
-Write a class implementing copy constructor.
+//Write a class implementing copy constructor.
   #include <iostream>
 using namespace std;
 class abc
