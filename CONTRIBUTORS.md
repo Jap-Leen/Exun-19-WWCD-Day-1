@@ -1,2 +1,3 @@
 Add your name and school name in the following list
-Himani - DPS Rohini
+1. Himani - DPS Rohini
+2. Ria - MIS
